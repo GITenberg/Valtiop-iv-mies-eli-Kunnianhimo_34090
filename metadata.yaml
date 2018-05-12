@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '36449'
     url: http://www.gutenberg.org/2009/agents/36449
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34090#Valtiop-iv-mies-eli-Kunnianhimo
 gutenberg_issued: '2010-10-17'
 gutenberg_type: Text
 identifiers:
